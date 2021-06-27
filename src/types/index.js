@@ -1,5 +1,5 @@
-const word = require("word")
+const word = require("./Word")
 
-module.exports = {
+module.exports = [
     word
-}
+]
