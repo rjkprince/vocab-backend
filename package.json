@@ -1,0 +1,16 @@
+{
+  "name": "vocab-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.25.2",
+    "mongoose": "^5.12.15"
+  }
+}
